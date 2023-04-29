@@ -1,0 +1,13 @@
+Google’s Datasets Search Engine
+Earth Data - https://earthdata.nasa.gov/Links to an external site.
+AWS - https://registry.opendata.aws/Links to an external site.
+Aure -  https://azure.microsoft.com/en-us/services/open-datasets/catalog/?q=Links to an external site.
+FBI - https://crime-data-explorer.fr.cloud.gov/downloads-and-docsLinks to an external site.
+Dats World - https://data.world/Links to an external site.
+CERN - http://opendata.cern.ch/Links to an external site.
+Lionbridge AI Datasets - https://lionbridge.ai/datasets/Links to an external site.
+UCI Machine Learning Repository - https://archive.ics.uci.edu/ml/index.phpLinks to an external site.
+Datahub - https://datahub.io/searchLinks to an external site.
+Awesome Datasets - https://github.com/awesomedata/awesome-public-datasetsLinks to an external site.
+Government Statistics (Open Data) - https://data.gov/Links to an external site.
+Visual Data - https://www.visualdata.io/discoveryLinks to an external site.
