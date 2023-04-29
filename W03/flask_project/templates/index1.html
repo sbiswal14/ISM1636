@@ -1,0 +1,13 @@
+
+{% block body %}
+<div class="comments">
+    <h3>Enter details</h3>
+    <form class="comment-form" action="/postmessage" method="post">
+        <input id="kgs_smoked" name ="kgs_smoked" type="text" placeholder="Enter kgs Smoked" required>
+        <!--input id="cemail" name = "cemail" type="email" placeholder="Enter Email" required><br> <br-->
+        <!--textarea id="ctext" name = "ctext" rows="5" placeholder="Your Comments" required></textarea><br><br-->
+        <button type="submit" class="red-btn">Get Prediction</button>
+    </form>
+</div>
+
+{% endblock %}
