@@ -1,12 +1,12 @@
 ## ISM1636
 
 ### Introduction:
-My name is Subash chandra Biswal (U77884251) and this repository is for Data Science Programming class with Professor Dr. Smith. The class comprised of quiet a good amount of handson coding assignments, weekly assignments, quizzes and in-class practice assignments. Th class covers many machine learning models for classification and regresiion. 
+My name is Subash chandra Biswal (U77884251) and this repository is for Data Science Programming class with Professor Dr. Smith. The class comprises of quiet a good amount of handson coding assignments, weekly assignments, quizzes and in-class practice assignments. Th class covers many machine learning models for classification and regresiion. 
 
 ### About the repository:
 The repository is arranged hierarchically in which one folder is created for each week of class which has all the study materials and assignment folder. Each assignment folder has both data file and code files.
 
-The folders cover topics as mentioned belo.
+The folders cover topics as mentioned below.
 
 - $W01$ :  [Python Anaconda Installation and Jupyter lab run test.](https://github.com/sbiswal14/ISM1636/tree/main/W01)
 - $W02$ :  [Regression models](https://github.com/sbiswal14/ISM1636/tree/main/W02) 
